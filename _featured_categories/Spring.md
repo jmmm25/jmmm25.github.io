@@ -1,9 +1,9 @@
 ---
 layout: list
-title: Daily
-slug: daily
+title: Spring
+slug: spring
 order: 3
 description: >
-  Daily Note
+  Spring 관련 
 sitemap: false
 ---

@@ -25,11 +25,10 @@ title:                 개발 블로그
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  jmmm25 Blog
 
 # A shorter description for the sidebar.
-tagline:               Algorithm / B/E / ETC
+tagline:               jmmm25
 
 # A list of keywords for your blog
 keywords:              []
@@ -53,8 +52,9 @@ menu:
     url:               /about/
   - title:             Algorithm
     url:               /algorithm/
-  - title:             Daily
-    url:               /daily/
+  - title:             Spring
+    url:               /spring/
+
   # - title:             Documentation
   #   url:               /docs/
 
@@ -423,3 +423,9 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+
+# Jekyll incremental Setting
+# ---------------------------------------------------------------------------------------
+
+# incremental: true
